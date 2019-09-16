@@ -1,0 +1,24 @@
+{
+  "name": "template-mongodb-simple",
+  "version": "0.0.1",
+  "description": "Basic Docker Containers to work with MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxSSO/template-mongodb-simple.git"
+  },
+  "keywords": ["Docker", "Express.js", "MongoDB", "Node.js"],
+  "author": "Max Suarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxSSO/template-mongodb-simple/issues"
+  },
+  "homepage": "https://github.com/MaxSSO/template-mongodb-simple#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2"
+  }
+}
